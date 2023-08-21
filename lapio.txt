@@ -1,0 +1,8 @@
+Olen harjoitellut jo kaiken ykkösosassa opetetun eli mikä koskee komentorivin käyttöä yleensä. 
+
+Nyt teen git osuutta.
+
+Lopuksi käyn läpi vielä html ja css perusteet.
+
+Kovaa hommaa mutta ihan mahtava oppia uutta! Kiitos.
+lisätty tietoa lapio-kurssin sisällöstä
